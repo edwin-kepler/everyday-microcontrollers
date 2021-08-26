@@ -7,3 +7,4 @@ Couple of small projects made when learning electronics and microcontrollers in 
 Everything here uses platformio.
 
 - [led_sos](Arduino/led_sos)
+- [analog_led](Arduino/analog_led)
